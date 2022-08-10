@@ -209,4 +209,4 @@ sudo apt install python3-apt -y
 
 ## Next steps
 
-This is pretty much installation. The next steps are adding applications, creating custom applications, the application setup, etc. More can be found on the [official documentation](https://frappeframework.com/docs/v14/user/en/introduction).
+This is pretty much the installation. The next steps are adding applications, creating custom applications, the application setup, etc. More can be found on the [official documentation](https://frappeframework.com/docs/v14/user/en/introduction).
