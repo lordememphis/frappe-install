@@ -68,10 +68,6 @@ rm /usr/bin/python3
 ln -s /usr/bin/python3.10 /usr/bin/python3
 ```
 
-```
-sudo apt install  -y
-```
-
 ## Install `python3.10-dev`, `python3.10-distutils` and `python3-pip`
 
 ```
