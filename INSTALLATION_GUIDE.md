@@ -186,7 +186,7 @@ Changing the system default Python installation can result in loss of required m
 
 Something like:
 
-```
+```python
 Traceback (most recent call last):
   File "/usr/lib/command-not-found", line 28, in <module>
     from CommandNotFound import CommandNotFound
