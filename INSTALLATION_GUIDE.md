@@ -68,10 +68,10 @@ rm /usr/bin/python3
 ln -s /usr/bin/python3.10 /usr/bin/python3
 ```
 
-## Install `python3.10-dev`, `python3.10-distutils` and `python3-pip`
+## Install `python3.10-dev`, `python3.10-distutils`, `python3-pip` and `python3.10-venv`
 
 ```
-sudo apt install python3.10-dev python3.10-distutils python3-pip -y
+sudo apt install python3.10-dev python3.10-distutils python3-pip python3.10-venv -y
 ```
 
 To get Python 3.10 `pip3` update, run:
